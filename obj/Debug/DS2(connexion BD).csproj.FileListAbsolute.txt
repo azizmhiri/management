@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\bin\Debug\DS2(connexion BD).exe.config
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\bin\Debug\DS2(connexion BD).exe
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\bin\Debug\DS2(connexion BD).pdb
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2(connexion BD).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2(connexion BD).csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2_connexion_BD_.Form1.resources
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2_connexion_BD_.frmjobs.resources
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2_connexion_BD_.Properties.Resources.resources
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2(connexion BD).csproj.GenerateResource.cache
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2(connexion BD).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2(connexion BD).exe
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2(connexion BD).pdb
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2_connexion_BD_.frmemp.resources
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2_connexion_BD_.Frmdpt.resources
+C:\Users\user\Desktop\1BIsem2\C#\DS2(connexion BD)\obj\Debug\DS2_connexion_BD_.Frmlocations.resources
